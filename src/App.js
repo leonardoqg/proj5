@@ -1,5 +1,5 @@
-import ContactForm from "./components/ContactForm";
-import ContactList from "./components/Contactlist";
+import ContactForm from "./components/contactform";
+import ContactList from "./components/contactlist";
 
 function App() {
   return (
